@@ -1,8 +1,21 @@
 {
-"storeHouse": [
-{"sourceName":"💚无邪优选仓🍭热门推荐🍭","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/wxrjck/-YSC-/main/yx.txt"},
-{"sourceName":"💛无邪聚合仓🍭聚合全网🍭","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/wxrjck/-YSC-/main/jh.txt"},
-{"sourceName":"💜无邪🍭25.10.06更新🍭","sourceUrl":"https://gitee.com/wxej/wxrj/raw/master/wx.txt"}
-]}
-
+  "storeHouse": [
+    {
+      "sourceName": "🚀丙醛优选仓┃精选稳定",
+      "sourceUrl": "https://gh-proxy.com/https://github.com/ch3ch2cho2021/bqs/main/premium.txt"
+    },
+    {
+      "sourceName": "💎丙醛社区仓┃全网聚合",
+      "sourceUrl": "https://gh-proxy.com/https://github.com/ch3ch2cho2021/bqs/main/community.txt"
+    },
+    {
+      "sourceName": "🔄丙醛备用仓┃故障切换",
+      "sourceUrl": "https://gh-proxy.com/https://github.com/ch3ch2cho2021/bqs/main/backup.txt"
+    },
+    {
+      "sourceName": "💜丙醛┃25.11.02更新",
+      "sourceUrl": "https://gitee.com/L-CH3CH2CHO/bqs/raw/master/bqs.txt"
+    }
+  ]
+}
 
