@@ -1,10 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.hbqfkj.cn/config.json",
-      "name": "🚀丙醛┃自用主线"
-    },
-    {
       "url": "http://www.饭太硬.com/tv",
       "name": "🚀丙醛┃饭太硬主线"
     },
