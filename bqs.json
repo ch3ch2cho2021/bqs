@@ -1,22 +1,23 @@
 {
   "storeHouse": [
     {
-      "sourceName": "🚀丙醛优选仓┃精选稳定",
+      "sourceName": "🚀丙醛说-优选仓┃精选稳定",
       "sourceUrl": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ch3ch2cho2021/bqs/main/premium.txt"
     },
     {
-      "sourceName": "💎丙醛社区仓┃全网聚合",
+      "sourceName": "💎丙醛说-社区仓┃全网聚合",
       "sourceUrl": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ch3ch2cho2021/bqs/main/community.txt"
     },
     {
-      "sourceName": "🔄丙醛备用仓┃故障切换",
+      "sourceName": "🔄丙醛说-备用仓┃故障切换",
       "sourceUrl": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ch3ch2cho2021/bqs/main/backup.txt"
     },
     {
-      "sourceName": "💜丙醛┃25.11.02更新",
+      "sourceName": "💜丙醛说┃25.11.02更新",
       "sourceUrl": "https://gitee.com/L-CH3CH2CHO/bqs/raw/master/bqs.txt"
     }
   ]
 }
+
 
 
