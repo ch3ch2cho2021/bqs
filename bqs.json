@@ -2,15 +2,15 @@
   "storeHouse": [
     {
       "sourceName": "🚀丙醛说-优选仓┃精选稳定",
-      "sourceUrl": "https://gh.mybqs.de5.net/https://raw.githubusercontent.com/ch3ch2cho2021/bqs@main/premium.txt"
+      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/ch3ch2cho2021/bqs@main/premium.txt"
     },
     {
       "sourceName": "💎丙醛说-社区仓┃全网聚合",
-      "sourceUrl": "https://gh.mybqs.de5.net/https://raw.githubusercontent.com/ch3ch2cho2021/bqs@main/community.txt"
+      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/ch3ch2cho2021/bqs@main/community.txt"
     },
     {
       "sourceName": "🔄丙醛说-备用仓┃故障切换",
-      "sourceUrl": "https://gh.mybqs.de5.net/https://raw.githubusercontent.com/ch3ch2cho2021/bqs@main/backup.txt"
+      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/ch3ch2cho2021/bqs@main/backup.txt"
     },
     {
       "sourceName": "💜丙醛说┃26.02.16更新",
@@ -18,6 +18,7 @@
     }
   ]
 }
+
 
 
 
